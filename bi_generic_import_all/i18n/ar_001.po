@@ -1,0 +1,806 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* bi_generic_import_all
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 13.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-23 11:04+0000\n"
+"PO-Revision-Date: 2021-03-23 11:04+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/multiple_bank_statement.py:0
+#, python-format
+msgid " \"%s\" Currency are not available."
+msgstr " \"%s\" العملة غير متوفرة."
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/multiple_bank_statement.py:0
+#, python-format
+msgid " \"%s\" Journal is not available."
+msgstr " \"%s\" المجلة غير متوفرة."
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/task.py:0
+#, python-format
+msgid " \"%s\" Tags is not available."
+msgstr " \"%s\" العلامات غير متوفرة."
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/task.py:0
+#, python-format
+msgid " \"%s\" User is not available."
+msgstr " \"%s\" المستخدم غير متوفر."
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/import_image.py:0
+#, python-format
+msgid " Code does not found in Excel"
+msgstr "لم يتم العثور على الرمز في Excel"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/import_image.py:0
+#, python-format
+msgid " ID does not found in Excel"
+msgstr "لم يتم العثور على المعرف في Excel"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/import_image.py:0
+#, python-format
+msgid " Name does not found in Excel"
+msgstr "الاسم غير موجود في Excel"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/import_image.py:0
+#, python-format
+msgid " Name not found in Excel"
+msgstr "الاسم غير موجود في Excel"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/multiple_account_move.py:0
+#, python-format
+msgid " Wrong Partner %s"
+msgstr "شريك غير صحيح%s"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_account_bank_statement__is_import
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_account_move__is_import
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_hr_attendance__is_import
+msgid " imported data"
+msgstr "البيانات المستوردة"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/multiple_account_move.py:0
+#, python-format
+msgid "\"%s\" Currency %s is not  in the system"
+msgstr "\"%s\" عملة %s ليس في النظام"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/attendances.py:0
+#: code:addons/bi_generic_import_all/models/attendances.py:0
+#: code:addons/bi_generic_import_all/models/invoice_with_payment.py:0
+#: code:addons/bi_generic_import_all/models/multiple_account_move.py:0
+#: code:addons/bi_generic_import_all/models/multiple_account_move.py:0
+#: code:addons/bi_generic_import_all/models/multiple_bank_statement.py:0
+#: code:addons/bi_generic_import_all/models/pos_order.py:0
+#: code:addons/bi_generic_import_all/models/task.py:0
+#, python-format
+msgid "\"%s\" This custom field is not available in system"
+msgstr "\"%s\" هذا الحقل المخصص غير متوفر في النظام"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/attendances.py:0
+#: code:addons/bi_generic_import_all/models/attendances.py:0
+#: code:addons/bi_generic_import_all/models/invoice_with_payment.py:0
+#: code:addons/bi_generic_import_all/models/multiple_account_move.py:0
+#: code:addons/bi_generic_import_all/models/multiple_account_move.py:0
+#: code:addons/bi_generic_import_all/models/multiple_bank_statement.py:0
+#: code:addons/bi_generic_import_all/models/pos_order.py:0
+#: code:addons/bi_generic_import_all/models/task.py:0
+#, python-format
+msgid "\"%s\" This custom field type is not many2one/many2many"
+msgstr "\"%s\" نوع الحقل المخصص هذا ليس كثيرًا"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/attendances.py:0
+#: code:addons/bi_generic_import_all/models/attendances.py:0
+#: code:addons/bi_generic_import_all/models/attendances.py:0
+#: code:addons/bi_generic_import_all/models/attendances.py:0
+#: code:addons/bi_generic_import_all/models/attendances.py:0
+#: code:addons/bi_generic_import_all/models/attendances.py:0
+#: code:addons/bi_generic_import_all/models/attendances.py:0
+#: code:addons/bi_generic_import_all/models/attendances.py:0
+#: code:addons/bi_generic_import_all/models/invoice_with_payment.py:0
+#: code:addons/bi_generic_import_all/models/invoice_with_payment.py:0
+#: code:addons/bi_generic_import_all/models/invoice_with_payment.py:0
+#: code:addons/bi_generic_import_all/models/invoice_with_payment.py:0
+#: code:addons/bi_generic_import_all/models/multiple_account_move.py:0
+#: code:addons/bi_generic_import_all/models/multiple_account_move.py:0
+#: code:addons/bi_generic_import_all/models/multiple_account_move.py:0
+#: code:addons/bi_generic_import_all/models/multiple_account_move.py:0
+#: code:addons/bi_generic_import_all/models/multiple_account_move.py:0
+#: code:addons/bi_generic_import_all/models/multiple_account_move.py:0
+#: code:addons/bi_generic_import_all/models/multiple_account_move.py:0
+#: code:addons/bi_generic_import_all/models/multiple_account_move.py:0
+#: code:addons/bi_generic_import_all/models/multiple_bank_statement.py:0
+#: code:addons/bi_generic_import_all/models/multiple_bank_statement.py:0
+#: code:addons/bi_generic_import_all/models/multiple_bank_statement.py:0
+#: code:addons/bi_generic_import_all/models/multiple_bank_statement.py:0
+#: code:addons/bi_generic_import_all/models/pos_order.py:0
+#: code:addons/bi_generic_import_all/models/pos_order.py:0
+#: code:addons/bi_generic_import_all/models/pos_order.py:0
+#: code:addons/bi_generic_import_all/models/pos_order.py:0
+#: code:addons/bi_generic_import_all/models/task.py:0
+#: code:addons/bi_generic_import_all/models/task.py:0
+#: code:addons/bi_generic_import_all/models/task.py:0
+#: code:addons/bi_generic_import_all/models/task.py:0
+#, python-format
+msgid "\"%s\" This custom field value \"%s\" not available in system"
+msgstr "\"%s\" قيمة الحقل المخصص هذه \"%s\" غير متوفر في النظام"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/attendances.py:0
+#: code:addons/bi_generic_import_all/models/attendances.py:0
+#: code:addons/bi_generic_import_all/models/invoice_with_payment.py:0
+#: code:addons/bi_generic_import_all/models/multiple_account_move.py:0
+#: code:addons/bi_generic_import_all/models/multiple_account_move.py:0
+#: code:addons/bi_generic_import_all/models/multiple_bank_statement.py:0
+#: code:addons/bi_generic_import_all/models/pos_order.py:0
+#: code:addons/bi_generic_import_all/models/task.py:0
+#, python-format
+msgid "\"%s\" This m2x custom field is not available in system"
+msgstr "\"%s\" هذا الحقل المخصص لـ m2x غير متوفر في النظام"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/multiple_account_move.py:0
+#, python-format
+msgid "\"%s\" Wrong Account Code"
+msgstr "\"%s\" رمز حساب خاطئ"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/multiple_account_move.py:0
+#: code:addons/bi_generic_import_all/models/multiple_account_move.py:0
+#, python-format
+msgid "\"%s\" Wrong Account Code %s"
+msgstr "\"%s\" رمز حساب خاطئ %s"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/multiple_account_move.py:0
+#, python-format
+msgid "\"%s\" Wrong Analytic Account Name %s"
+msgstr "\"%s\" اسم حساب تحليلي خاطئ %s"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/import_image.py:0
+#, python-format
+msgid "\"%s\" does not found"
+msgstr "\"%s\" غير موجود"
+
+#. module: bi_generic_import_all
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.import_dashboard_kanban_dashboard_inherit
+msgid "<span class=\"o_label\">Attendance</span>"
+msgstr "<span class=\"o_label\">حضور</span>"
+
+#. module: bi_generic_import_all
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.import_dashboard_kanban_dashboard_inherit
+msgid "<span class=\"o_label\">Bank Statement</span>"
+msgstr "<span class=\"o_label\">كشف حساب بنكى</span>"
+
+#. module: bi_generic_import_all
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.import_dashboard_kanban_dashboard_inherit
+msgid "<span class=\"o_label\">Import Attendance</span>"
+msgstr "<span class=\"o_label\">حضور الاستيراد</span>"
+
+#. module: bi_generic_import_all
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.import_dashboard_kanban_dashboard_inherit
+msgid "<span class=\"o_label\">Import Bank Statement</span>"
+msgstr "<span class=\"o_label\">كشف حساب بنك الاستيراد</span>"
+
+#. module: bi_generic_import_all
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.import_dashboard_kanban_dashboard_inherit
+msgid "<span class=\"o_label\">Import Journal Entry</span>"
+msgstr "<span class=\"o_label\">استيراد إدخال دفتر اليومية</span>"
+
+#. module: bi_generic_import_all
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.import_dashboard_kanban_dashboard_inherit
+msgid "<span class=\"o_label\">Import Pos Order</span>"
+msgstr "<span class=\"o_label\">أمر استيراد نقاط البيع</span>"
+
+#. module: bi_generic_import_all
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.import_dashboard_kanban_dashboard_inherit
+msgid "<span class=\"o_label\">Import Task</span>"
+msgstr "<span class=\"o_label\">مهمة الاستيراد</span>"
+
+#. module: bi_generic_import_all
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.import_dashboard_kanban_dashboard_inherit
+msgid "<span class=\"o_label\">Journal Entry</span>"
+msgstr "<span class=\"o_label\">إفتتاحية المجلة</span>"
+
+#. module: bi_generic_import_all
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.import_dashboard_kanban_dashboard_inherit
+msgid "<span class=\"o_label\">POS Order</span>"
+msgstr "<span class=\"o_label\">طلب نقاط البيع</span>"
+
+#. module: bi_generic_import_all
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.import_dashboard_kanban_dashboard_inherit
+msgid "<span class=\"o_label\">Task</span>"
+msgstr "<span class=\"o_label\">مهمة</span>"
+
+#. module: bi_generic_import_all
+#: model:ir.model,name:bi_generic_import_all.model_account_multiple_bank_statement_wizard
+msgid "Account Multiple Bank Statement Wizard"
+msgstr "معالج كشف الحساب المصرفي المتعدد"
+
+#. module: bi_generic_import_all
+#: model:ir.actions.act_window,name:bi_generic_import_all.action_attendace_import_view
+#: model:ir.model,name:bi_generic_import_all.model_hr_attendance
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__import_dashboard__state__account_move_journal
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__import_dashboard__state__hr_attendance
+msgid "Attendance"
+msgstr "حضور"
+
+#. module: bi_generic_import_all
+#: model:ir.actions.act_window,name:bi_generic_import_all.action_bank_statement_import_view
+#: model:ir.model,name:bi_generic_import_all.model_account_bank_statement
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__import_dashboard__state__account_bank_statement
+msgid "Bank Statement"
+msgstr "كشف حساب بنكى"
+
+#. module: bi_generic_import_all
+#: model:ir.model,name:bi_generic_import_all.model_bi_import_product_image
+msgid "Bi Import Product Image"
+msgstr "Bi استيراد صورة المنتج"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__account_multiple_bank_statement_wizard__file_opt__csv
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__import_attendance__file_opt__csv
+msgid "CSV"
+msgstr "CSV"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__gen_multi_journal_entry__import_option__csv
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__gen_pos_order__import_option__csv
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__import_task__import_option__csv
+msgid "CSV File"
+msgstr "ملف CSV"
+
+#. module: bi_generic_import_all
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.form_import_product_image
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.import_multiple_account_move_line_view
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.import_multiple_bank_statement_wizard
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.import_pos_view
+msgid "Cancel"
+msgstr "يلغي"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__bi_import_product_image__update_by__code
+msgid "Code"
+msgstr "رمز"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/import_image.py:0
+#, python-format
+msgid "Code(\"Internal Reference  \") does not found in Excel"
+msgstr "لم يتم العثور على الرمز (\ "مرجع داخلي \") في Excel"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__bi_import_product_image__operation__create
+msgid "Create Product"
+msgstr "إنشاء منتج"
+
+#. module: bi_generic_import_all
+#: model_terms:ir.actions.act_window,help:bi_generic_import_all.action_bank_statement_import_view
+msgid "Create a Bank Statement"
+msgstr "قم بإنشاء كشف حساب بنكي"
+
+#. module: bi_generic_import_all
+#: model_terms:ir.actions.act_window,help:bi_generic_import_all.action_journal_entry_import_view
+msgid "Create a Journal Entry"
+msgstr "إنشاء إدخال دفتر اليومية"
+
+#. module: bi_generic_import_all
+#: model_terms:ir.actions.act_window,help:bi_generic_import_all.action_attendace_import_view
+msgid "Create a attendance"
+msgstr "إنشاء حضور"
+
+#. module: bi_generic_import_all
+#: model_terms:ir.actions.act_window,help:bi_generic_import_all.action_pos_order_import_view
+msgid "Create a pos Order"
+msgstr "إنشاء أمر نقاط البيع"
+
+#. module: bi_generic_import_all
+#: model_terms:ir.actions.act_window,help:bi_generic_import_all.action_task_import_view
+msgid "Create a project Task"
+msgstr "إنشاء مهمة المشروع"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_account_multiple_bank_statement_wizard__create_uid
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_bi_import_product_image__create_uid
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_gen_multi_journal_entry__create_uid
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_gen_pos_order__create_uid
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_import_attendance__create_uid
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_import_task__create_uid
+msgid "Created by"
+msgstr "انشأ من قبل"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_account_multiple_bank_statement_wizard__create_date
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_bi_import_product_image__create_date
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_gen_multi_journal_entry__create_date
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_gen_pos_order__create_date
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_import_attendance__create_date
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_import_task__create_date
+msgid "Created on"
+msgstr "تم إنشاؤها على"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_account_multiple_bank_statement_wizard__display_name
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_bi_import_product_image__display_name
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_gen_multi_journal_entry__display_name
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_gen_pos_order__display_name
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_import_attendance__display_name
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_import_task__display_name
+msgid "Display Name"
+msgstr "اسم العرض"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__import_attendance__file_opt__excel
+msgid "EXCEL"
+msgstr "اكسل"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/attendances.py:0
+#, python-format
+msgid "Employee '%s' Not Found!"
+msgstr "الموظف '%s' غير موجود!"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__account_multiple_bank_statement_wizard__file_opt__excel
+msgid "Excel"
+msgstr "اكسل"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_account_multiple_bank_statement_wizard__file
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_gen_multi_journal_entry__file_to_upload
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_gen_pos_order__file_to_upload
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_import_attendance__file
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_import_task__file
+msgid "File"
+msgstr "ملف"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_account_multiple_bank_statement_wizard__file_opt
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_import_attendance__file_opt
+msgid "File Opt"
+msgstr "ملف Opt"
+
+#. module: bi_generic_import_all
+#: model:ir.model,name:bi_generic_import_all.model_gen_multi_journal_entry
+msgid "Gen Multi Journal Entry"
+msgstr "Gen Multi Journal Entry"
+
+#. module: bi_generic_import_all
+#: model:ir.model,name:bi_generic_import_all.model_gen_pos_order
+msgid "Gen Pos Order"
+msgstr "ترتيب نقاط البيع العامة"
+
+#. module: bi_generic_import_all
+#: model:ir.model,name:bi_generic_import_all.model_gen_invoice
+msgid "Generic Invoice"
+msgstr "فاتورة عامة"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_account_multiple_bank_statement_wizard__id
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_bi_import_product_image__id
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_gen_multi_journal_entry__id
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_gen_pos_order__id
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_import_attendance__id
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_import_task__id
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__bi_import_product_image__update_by__id
+msgid "ID"
+msgstr "بطاقة تعريف"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/import_image.py:0
+#, python-format
+msgid "ID does not found in Excel"
+msgstr "لم يتم العثور على المعرف في Excel"
+
+#. module: bi_generic_import_all
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.form_import_product_image
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.hr_attendance_import_wizard
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.import_multiple_account_move_line_view
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.import_multiple_bank_statement_wizard
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.import_pos_view
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.import_task_wizard_view
+msgid "Import"
+msgstr "يستورد"
+
+#. module: bi_generic_import_all
+#: model:ir.model,name:bi_generic_import_all.model_import_attendance
+#: model:ir.ui.menu,name:bi_generic_import_all.import_attendance_dashboard_view
+msgid "Import Attendance"
+msgstr "حضور الاستيراد"
+
+#. module: bi_generic_import_all
+#: model:ir.actions.act_window,name:bi_generic_import_all.hr_attendance_import_action
+#: model:ir.ui.menu,name:bi_generic_import_all.menu_hr_attendance_import
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.hr_attendance_import_wizard
+msgid "Import Attendances"
+msgstr "حضور الاستيراد"
+
+#. module: bi_generic_import_all
+#: model:ir.ui.menu,name:bi_generic_import_all.import_statement_dashboard_view
+msgid "Import Bank Statement"
+msgstr "كشف حساب بنك الاستيراد"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__gen_invoice__stage__draft
+msgid "Import Draft Invoice"
+msgstr "فاتورة استيراد مسودة"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__gen_invoice__stage__payment
+msgid "Import Invoice with Payment"
+msgstr "فاتورة الاستيراد مع الدفع"
+
+#. module: bi_generic_import_all
+#: model:ir.ui.menu,name:bi_generic_import_all.import_journal_dashboard_view
+msgid "Import Journal Entry"
+msgstr "استيراد إدخال دفتر اليومية"
+
+#. module: bi_generic_import_all
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.import_multiple_account_move_line_view
+msgid "Import Journal Items"
+msgstr "استيراد عناصر دفتر اليومية"
+
+#. module: bi_generic_import_all
+#: model:ir.actions.act_window,name:bi_generic_import_all.action_import_multiple_bank_statement
+#: model:ir.ui.menu,name:bi_generic_import_all.menu_import_multiple_bank_statement
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.import_multiple_bank_statement_wizard
+msgid "Import Multiple Bank Statement"
+msgstr "كشف حساب بنكي متعدد"
+
+#. module: bi_generic_import_all
+#: model:ir.actions.act_window,name:bi_generic_import_all.action_import_multiple_account_move_line
+#: model:ir.ui.menu,name:bi_generic_import_all.bi_gen_multiple_journal_wizard_import
+msgid "Import Multiple Journal Entries"
+msgstr "استيراد إدخالات دفتر اليومية المتعددة"
+
+#. module: bi_generic_import_all
+#: model:ir.ui.menu,name:bi_generic_import_all.import_pos_dashboard_view
+msgid "Import POS"
+msgstr "استيراد نقاط البيع"
+
+#. module: bi_generic_import_all
+#: model:ir.actions.act_window,name:bi_generic_import_all.action_pos_import
+#: model:ir.ui.menu,name:bi_generic_import_all.Import POS Order
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.import_pos_view
+msgid "Import POS Order"
+msgstr "أمر استيراد نقاط البيع"
+
+#. module: bi_generic_import_all
+#: model:ir.actions.act_window,name:bi_generic_import_all.action_import_product_image
+#: model:ir.ui.menu,name:bi_generic_import_all.menu_import_product_image
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.form_import_product_image
+msgid "Import Product Images"
+msgstr "استيراد صور المنتج"
+
+#. module: bi_generic_import_all
+#: model:ir.actions.act_window,name:bi_generic_import_all.import_task_wizard_action
+#: model:ir.model,name:bi_generic_import_all.model_import_task
+#: model:ir.ui.menu,name:bi_generic_import_all.import_task_dashboard_view
+#: model:ir.ui.menu,name:bi_generic_import_all.import_task_wizard
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.import_task_wizard_view
+msgid "Import Task"
+msgstr "مهمة الاستيراد"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/multiple_bank_statement.py:0
+#, python-format
+msgid ""
+"Invalid Dates !!!!.\n"
+" Please Enter Valid Dates,\n"
+" Dates must be greater than previous entry."
+msgstr ""
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/multiple_account_move.py:0
+#: code:addons/bi_generic_import_all/models/multiple_account_move.py:0
+#: code:addons/bi_generic_import_all/models/multiple_bank_statement.py:0
+#: code:addons/bi_generic_import_all/models/multiple_bank_statement.py:0
+#: code:addons/bi_generic_import_all/models/pos_order.py:0
+#: code:addons/bi_generic_import_all/models/pos_order.py:0
+#, python-format
+msgid "Invalid file!"
+msgstr "ملف غير صالح!"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_gen_invoice__stage
+msgid "Invoice Stage Option"
+msgstr "خيار مرحلة الفاتورة"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/invoice_with_payment.py:0
+#, python-format
+msgid "Journal %s does not exist."
+msgstr "دفتر اليومية% s غير موجود."
+
+#. module: bi_generic_import_all
+#: model:ir.model,name:bi_generic_import_all.model_account_move
+msgid "Journal Entries"
+msgstr "إدخالات دفتر اليومية"
+
+#. module: bi_generic_import_all
+#: model:ir.actions.act_window,name:bi_generic_import_all.action_journal_entry_import_view
+msgid "Journal Entry"
+msgstr "إفتتاحية المجلة"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/multiple_bank_statement.py:0
+#, python-format
+msgid ""
+"Journal is different for \"%s\" .\n"
+" Please define same."
+msgstr ""
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__gen_invoice__partial_payment__keep
+msgid "Keep Open"
+msgstr "تبقى مفتوحة"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_account_multiple_bank_statement_wizard____last_update
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_bi_import_product_image____last_update
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_gen_multi_journal_entry____last_update
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_gen_pos_order____last_update
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_import_attendance____last_update
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_import_task____last_update
+msgid "Last Modified on"
+msgstr "تاريخ آخر تعديل"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_account_multiple_bank_statement_wizard__write_uid
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_bi_import_product_image__write_uid
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_gen_multi_journal_entry__write_uid
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_gen_pos_order__write_uid
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_import_attendance__write_uid
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_import_task__write_uid
+msgid "Last Updated by"
+msgstr "آخر تحديث بواسطة"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_account_multiple_bank_statement_wizard__write_date
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_bi_import_product_image__write_date
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_gen_multi_journal_entry__write_date
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_gen_pos_order__write_date
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_import_attendance__write_date
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_import_task__write_date
+msgid "Last Updated on"
+msgstr "آخر تحديث في"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_bi_import_product_image__model
+msgid "Models"
+msgstr "عارضات ازياء"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__bi_import_product_image__update_by__name
+msgid "Name"
+msgstr "اسم"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/import_image.py:0
+#, python-format
+msgid "Name does not found in Excel"
+msgstr "الاسم غير موجود في Excel"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/pos_order.py:0
+#, python-format
+msgid "Not Valid Salesperson Name \"%s\""
+msgstr "اسم البائع غير صالح \"%s\""
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_bi_import_product_image__operation
+msgid "Operations"
+msgstr "عمليات"
+
+#. module: bi_generic_import_all
+#: model:ir.actions.act_window,name:bi_generic_import_all.action_pos_order_import_view
+msgid "POS Order"
+msgstr "طلب نقاط البيع"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__import_dashboard__state__pos_order
+msgid "POS order"
+msgstr "طلب نقاط البيع"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_gen_invoice__partial_payment
+msgid "Partial Payment"
+msgstr "دفع جزء من المال"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/multiple_account_move.py:0
+#: code:addons/bi_generic_import_all/models/multiple_account_move.py:0
+#: code:addons/bi_generic_import_all/models/multiple_account_move.py:0
+#: code:addons/bi_generic_import_all/models/multiple_account_move.py:0
+#, python-format
+msgid "Please Define Journal which are already in system."
+msgstr "يرجى تحديد المجلة الموجودة بالفعل في النظام."
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/multiple_bank_statement.py:0
+#, python-format
+msgid "Please Provide Currency Value for Bank Statement."
+msgstr "يرجى تقديم قيمة العملة لكشف الحساب المصرفي."
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/multiple_bank_statement.py:0
+#, python-format
+msgid "Please Provide Date Field Value for Bank Statement."
+msgstr "يرجى تقديم قيمة حقل التاريخ لكشف الحساب المصرفي."
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/invoice_with_payment.py:0
+#: code:addons/bi_generic_import_all/models/invoice_with_payment.py:0
+#, python-format
+msgid "Please Specify Payment Journal and Amount for Invoice %s"
+msgstr "الرجاء تحديد دفتر يومية الدفع ومبلغ الفاتورة% s"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/invoice_with_payment.py:0
+#: code:addons/bi_generic_import_all/models/invoice_with_payment.py:0
+#, python-format
+msgid "Please Use same Journal for Invoice %s"
+msgstr "الرجاء استخدام نفس دفتر اليومية للفاتورة% s"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/invoice_with_payment.py:0
+#, python-format
+msgid "Please assign a date"
+msgstr "يرجى تحديد تاريخ"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/invoice_with_payment.py:0
+#: code:addons/bi_generic_import_all/models/invoice_with_payment.py:0
+#, python-format
+msgid "Please assign a payment date"
+msgstr "يرجى تحديد تاريخ الدفع"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/task.py:0
+#: code:addons/bi_generic_import_all/models/task.py:0
+#, python-format
+msgid "Please select CSV/XLS file or You have selected invalid file"
+msgstr "يرجى تحديد ملف CSV / XLS أو أنك قمت بتحديد ملف غير صالح"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/attendances.py:0
+#: code:addons/bi_generic_import_all/models/attendances.py:0
+#: code:addons/bi_generic_import_all/models/import_image.py:0
+#: code:addons/bi_generic_import_all/models/invoice_with_payment.py:0
+#: code:addons/bi_generic_import_all/models/invoice_with_payment.py:0
+#, python-format
+msgid "Please select an CSV/XLS file or You have selected invalid file"
+msgstr "الرجاء تحديد ملف CSV / XLS أو أنك قمت بتحديد ملف غير صالح"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/pos_order.py:0
+#, python-format
+msgid "Please set date in file."
+msgstr "يرجى تحديد التاريخ في الملف."
+
+#. module: bi_generic_import_all
+#: model:ir.model,name:bi_generic_import_all.model_pos_order
+msgid "Point of Sale Orders"
+msgstr "أوامر نقاط البيع"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__bi_import_product_image__model__product
+msgid "Product"
+msgstr "منتج"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__bi_import_product_image__model__template
+msgid "Product Template"
+msgstr "نموذج المنتج"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_gen_multi_journal_entry__import_option
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_gen_pos_order__import_option
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_import_task__import_option
+msgid "Select"
+msgstr "يختار"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_bi_import_product_image__file
+msgid "Select Excel File"
+msgstr "حدد ملف Excel"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_import_dashboard__state
+msgid "State"
+msgstr "حالة"
+
+#. module: bi_generic_import_all
+#: model:ir.actions.act_window,name:bi_generic_import_all.action_task_import_view
+#: model:ir.model,name:bi_generic_import_all.model_project_task
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__import_dashboard__state__project_task
+msgid "Task"
+msgstr "مهمة"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_bi_import_product_image__update_by
+msgid "Update By"
+msgstr "تحديث بواسطة"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__bi_import_product_image__operation__update
+msgid "Update Product"
+msgstr "تحديث المنتج"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__gen_invoice__stage__confirm
+msgid "Validate Invoice Automatically With Import"
+msgstr "التحقق من صحة الفاتورة تلقائيًا مع الاستيراد"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__gen_invoice__partial_payment__writeoff
+msgid "Write-Off"
+msgstr "لا تصلح"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_gen_invoice__writeoff_account
+msgid "Write-Off Account"
+msgstr "حساب الشطب"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/pos_order.py:0
+#, python-format
+msgid "Wrong Partner %s"
+msgstr "شريك غير صحيح% s"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/pos_order.py:0
+#, python-format
+msgid "Wrong Product %s"
+msgstr "منتج خاطئ% s"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/pos_order.py:0
+#: code:addons/bi_generic_import_all/models/pos_order.py:0
+#, python-format
+msgid "Wrong Session %s"
+msgstr "جلسة خاطئة% s"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__gen_multi_journal_entry__import_option__xls
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__gen_pos_order__import_option__xls
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__import_task__import_option__xls
+msgid "XLS File"
+msgstr "ملف XLS"
+
+#. module: bi_generic_import_all
+#: model:ir.model,name:bi_generic_import_all.model_import_dashboard
+msgid "import Dashboard"
+msgstr "استيراد لوحة القيادة"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_pos_order__is_import
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_project_task__is_import
+msgid "imported data"
+msgstr "البيانات المستوردة"
+
+#. module: bi_generic_import_all
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.import_multiple_bank_statement_wizard
+msgid "or"
+msgstr "أو"

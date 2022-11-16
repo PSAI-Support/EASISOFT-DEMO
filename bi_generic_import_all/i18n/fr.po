@@ -1,0 +1,806 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* bi_generic_import_all
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 13.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-23 11:05+0000\n"
+"PO-Revision-Date: 2021-03-23 11:05+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/multiple_bank_statement.py:0
+#, python-format
+msgid " \"%s\" Currency are not available."
+msgstr " \"%s\" Les devises ne sont pas disponibles."
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/multiple_bank_statement.py:0
+#, python-format
+msgid " \"%s\" Journal is not available."
+msgstr " \"%s\" Le journal n'est pas disponible."
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/task.py:0
+#, python-format
+msgid " \"%s\" Tags is not available."
+msgstr " \"%s\" Les balises ne sont pas disponibles."
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/task.py:0
+#, python-format
+msgid " \"%s\" User is not available."
+msgstr " \"%s\" L'utilisateur n'est pas disponible."
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/import_image.py:0
+#, python-format
+msgid " Code does not found in Excel"
+msgstr "Le code ne se trouve pas dans Excel"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/import_image.py:0
+#, python-format
+msgid " ID does not found in Excel"
+msgstr "ID introuvable dans Excel"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/import_image.py:0
+#, python-format
+msgid " Name does not found in Excel"
+msgstr "Le nom est introuvable dans Excel"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/import_image.py:0
+#, python-format
+msgid " Name not found in Excel"
+msgstr "Nom introuvable dans Excel"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/multiple_account_move.py:0
+#, python-format
+msgid " Wrong Partner %s"
+msgstr "Mauvais partenaire% s"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_account_bank_statement__is_import
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_account_move__is_import
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_hr_attendance__is_import
+msgid " imported data"
+msgstr "données importées"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/multiple_account_move.py:0
+#, python-format
+msgid "\"%s\" Currency %s is not  in the system"
+msgstr "\"%s\" La devise% s n'est pas dans le système"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/attendances.py:0
+#: code:addons/bi_generic_import_all/models/attendances.py:0
+#: code:addons/bi_generic_import_all/models/invoice_with_payment.py:0
+#: code:addons/bi_generic_import_all/models/multiple_account_move.py:0
+#: code:addons/bi_generic_import_all/models/multiple_account_move.py:0
+#: code:addons/bi_generic_import_all/models/multiple_bank_statement.py:0
+#: code:addons/bi_generic_import_all/models/pos_order.py:0
+#: code:addons/bi_generic_import_all/models/task.py:0
+#, python-format
+msgid "\"%s\" This custom field is not available in system"
+msgstr "\"%s\" Ce champ personnalisé n'est pas disponible dans le système"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/attendances.py:0
+#: code:addons/bi_generic_import_all/models/attendances.py:0
+#: code:addons/bi_generic_import_all/models/invoice_with_payment.py:0
+#: code:addons/bi_generic_import_all/models/multiple_account_move.py:0
+#: code:addons/bi_generic_import_all/models/multiple_account_move.py:0
+#: code:addons/bi_generic_import_all/models/multiple_bank_statement.py:0
+#: code:addons/bi_generic_import_all/models/pos_order.py:0
+#: code:addons/bi_generic_import_all/models/task.py:0
+#, python-format
+msgid "\"%s\" This custom field type is not many2one/many2many"
+msgstr "\"%s\" Ce type de champ personnalisé n'est pas many2one / many2many"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/attendances.py:0
+#: code:addons/bi_generic_import_all/models/attendances.py:0
+#: code:addons/bi_generic_import_all/models/attendances.py:0
+#: code:addons/bi_generic_import_all/models/attendances.py:0
+#: code:addons/bi_generic_import_all/models/attendances.py:0
+#: code:addons/bi_generic_import_all/models/attendances.py:0
+#: code:addons/bi_generic_import_all/models/attendances.py:0
+#: code:addons/bi_generic_import_all/models/attendances.py:0
+#: code:addons/bi_generic_import_all/models/invoice_with_payment.py:0
+#: code:addons/bi_generic_import_all/models/invoice_with_payment.py:0
+#: code:addons/bi_generic_import_all/models/invoice_with_payment.py:0
+#: code:addons/bi_generic_import_all/models/invoice_with_payment.py:0
+#: code:addons/bi_generic_import_all/models/multiple_account_move.py:0
+#: code:addons/bi_generic_import_all/models/multiple_account_move.py:0
+#: code:addons/bi_generic_import_all/models/multiple_account_move.py:0
+#: code:addons/bi_generic_import_all/models/multiple_account_move.py:0
+#: code:addons/bi_generic_import_all/models/multiple_account_move.py:0
+#: code:addons/bi_generic_import_all/models/multiple_account_move.py:0
+#: code:addons/bi_generic_import_all/models/multiple_account_move.py:0
+#: code:addons/bi_generic_import_all/models/multiple_account_move.py:0
+#: code:addons/bi_generic_import_all/models/multiple_bank_statement.py:0
+#: code:addons/bi_generic_import_all/models/multiple_bank_statement.py:0
+#: code:addons/bi_generic_import_all/models/multiple_bank_statement.py:0
+#: code:addons/bi_generic_import_all/models/multiple_bank_statement.py:0
+#: code:addons/bi_generic_import_all/models/pos_order.py:0
+#: code:addons/bi_generic_import_all/models/pos_order.py:0
+#: code:addons/bi_generic_import_all/models/pos_order.py:0
+#: code:addons/bi_generic_import_all/models/pos_order.py:0
+#: code:addons/bi_generic_import_all/models/task.py:0
+#: code:addons/bi_generic_import_all/models/task.py:0
+#: code:addons/bi_generic_import_all/models/task.py:0
+#: code:addons/bi_generic_import_all/models/task.py:0
+#, python-format
+msgid "\"%s\" This custom field value \"%s\" not available in system"
+msgstr "\"%s\" Cette valeur de champ personnalisé \"%s\" non disponible dans le système"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/attendances.py:0
+#: code:addons/bi_generic_import_all/models/attendances.py:0
+#: code:addons/bi_generic_import_all/models/invoice_with_payment.py:0
+#: code:addons/bi_generic_import_all/models/multiple_account_move.py:0
+#: code:addons/bi_generic_import_all/models/multiple_account_move.py:0
+#: code:addons/bi_generic_import_all/models/multiple_bank_statement.py:0
+#: code:addons/bi_generic_import_all/models/pos_order.py:0
+#: code:addons/bi_generic_import_all/models/task.py:0
+#, python-format
+msgid "\"%s\" This m2x custom field is not available in system"
+msgstr "\"%s\" Ce champ personnalisé m2x n'est pas disponible dans le système"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/multiple_account_move.py:0
+#, python-format
+msgid "\"%s\" Wrong Account Code"
+msgstr "\"%s\" Code de compte incorrect"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/multiple_account_move.py:0
+#: code:addons/bi_generic_import_all/models/multiple_account_move.py:0
+#, python-format
+msgid "\"%s\" Wrong Account Code %s"
+msgstr "\"%s\" Code de compte incorrect% s"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/multiple_account_move.py:0
+#, python-format
+msgid "\"%s\" Wrong Analytic Account Name %s"
+msgstr "\"%s\" Nom de compte analytique incorrect% s"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/import_image.py:0
+#, python-format
+msgid "\"%s\" does not found"
+msgstr "\"%s\" ne trouve pas"
+
+#. module: bi_generic_import_all
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.import_dashboard_kanban_dashboard_inherit
+msgid "<span class=\"o_label\">Attendance</span>"
+msgstr "<span class=\"o_label\">Présence</span>"
+
+#. module: bi_generic_import_all
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.import_dashboard_kanban_dashboard_inherit
+msgid "<span class=\"o_label\">Bank Statement</span>"
+msgstr "<span class=\"o_label\">Relevé bancaire</span>"
+
+#. module: bi_generic_import_all
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.import_dashboard_kanban_dashboard_inherit
+msgid "<span class=\"o_label\">Import Attendance</span>"
+msgstr "<span class=\"o_label\">Importer la fréquentation</span>"
+
+#. module: bi_generic_import_all
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.import_dashboard_kanban_dashboard_inherit
+msgid "<span class=\"o_label\">Import Bank Statement</span>"
+msgstr "<span class=\"o_label\">Importer un relevé bancaire</span>"
+
+#. module: bi_generic_import_all
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.import_dashboard_kanban_dashboard_inherit
+msgid "<span class=\"o_label\">Import Journal Entry</span>"
+msgstr "<span class=\"o_label\">Importer une entrée de journal</span>"
+
+#. module: bi_generic_import_all
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.import_dashboard_kanban_dashboard_inherit
+msgid "<span class=\"o_label\">Import Pos Order</span>"
+msgstr "<span class=\"o_label\">Importer la commande de position</span>"
+
+#. module: bi_generic_import_all
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.import_dashboard_kanban_dashboard_inherit
+msgid "<span class=\"o_label\">Import Task</span>"
+msgstr "<span class=\"o_label\">Importer une tâche</span>"
+
+#. module: bi_generic_import_all
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.import_dashboard_kanban_dashboard_inherit
+msgid "<span class=\"o_label\">Journal Entry</span>"
+msgstr "<span class=\"o_label\">Entrée de journal</span>"
+
+#. module: bi_generic_import_all
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.import_dashboard_kanban_dashboard_inherit
+msgid "<span class=\"o_label\">POS Order</span>"
+msgstr "<span class=\"o_label\">Commande au point de vente</span>"
+
+#. module: bi_generic_import_all
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.import_dashboard_kanban_dashboard_inherit
+msgid "<span class=\"o_label\">Task</span>"
+msgstr "<span class=\"o_label\">Tâche</span>"
+
+#. module: bi_generic_import_all
+#: model:ir.model,name:bi_generic_import_all.model_account_multiple_bank_statement_wizard
+msgid "Account Multiple Bank Statement Wizard"
+msgstr "Assistant de relevé bancaire multiple de compte"
+
+#. module: bi_generic_import_all
+#: model:ir.actions.act_window,name:bi_generic_import_all.action_attendace_import_view
+#: model:ir.model,name:bi_generic_import_all.model_hr_attendance
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__import_dashboard__state__account_move_journal
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__import_dashboard__state__hr_attendance
+msgid "Attendance"
+msgstr "Présence"
+
+#. module: bi_generic_import_all
+#: model:ir.actions.act_window,name:bi_generic_import_all.action_bank_statement_import_view
+#: model:ir.model,name:bi_generic_import_all.model_account_bank_statement
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__import_dashboard__state__account_bank_statement
+msgid "Bank Statement"
+msgstr "Relevé bancaire"
+
+#. module: bi_generic_import_all
+#: model:ir.model,name:bi_generic_import_all.model_bi_import_product_image
+msgid "Bi Import Product Image"
+msgstr "Image du produit Bi Import"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__account_multiple_bank_statement_wizard__file_opt__csv
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__import_attendance__file_opt__csv
+msgid "CSV"
+msgstr "CSV"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__gen_multi_journal_entry__import_option__csv
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__gen_pos_order__import_option__csv
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__import_task__import_option__csv
+msgid "CSV File"
+msgstr "Fichier CSV"
+
+#. module: bi_generic_import_all
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.form_import_product_image
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.import_multiple_account_move_line_view
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.import_multiple_bank_statement_wizard
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.import_pos_view
+msgid "Cancel"
+msgstr "Annuler"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__bi_import_product_image__update_by__code
+msgid "Code"
+msgstr "Code"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/import_image.py:0
+#, python-format
+msgid "Code(\"Internal Reference  \") does not found in Excel"
+msgstr "Le code (\"Référence interne \") est introuvable dans Excel"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__bi_import_product_image__operation__create
+msgid "Create Product"
+msgstr "Créer un produit"
+
+#. module: bi_generic_import_all
+#: model_terms:ir.actions.act_window,help:bi_generic_import_all.action_bank_statement_import_view
+msgid "Create a Bank Statement"
+msgstr "Créer un relevé bancaire"
+
+#. module: bi_generic_import_all
+#: model_terms:ir.actions.act_window,help:bi_generic_import_all.action_journal_entry_import_view
+msgid "Create a Journal Entry"
+msgstr "Créer une entrée de journal"
+
+#. module: bi_generic_import_all
+#: model_terms:ir.actions.act_window,help:bi_generic_import_all.action_attendace_import_view
+msgid "Create a attendance"
+msgstr "Créer une présence"
+
+#. module: bi_generic_import_all
+#: model_terms:ir.actions.act_window,help:bi_generic_import_all.action_pos_order_import_view
+msgid "Create a pos Order"
+msgstr "Créer une commande de point de vente"
+
+#. module: bi_generic_import_all
+#: model_terms:ir.actions.act_window,help:bi_generic_import_all.action_task_import_view
+msgid "Create a project Task"
+msgstr "Créer une tâche de projet"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_account_multiple_bank_statement_wizard__create_uid
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_bi_import_product_image__create_uid
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_gen_multi_journal_entry__create_uid
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_gen_pos_order__create_uid
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_import_attendance__create_uid
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_import_task__create_uid
+msgid "Created by"
+msgstr "Créé par"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_account_multiple_bank_statement_wizard__create_date
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_bi_import_product_image__create_date
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_gen_multi_journal_entry__create_date
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_gen_pos_order__create_date
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_import_attendance__create_date
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_import_task__create_date
+msgid "Created on"
+msgstr "Créé sur"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_account_multiple_bank_statement_wizard__display_name
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_bi_import_product_image__display_name
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_gen_multi_journal_entry__display_name
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_gen_pos_order__display_name
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_import_attendance__display_name
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_import_task__display_name
+msgid "Display Name"
+msgstr "Afficher un nom"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__import_attendance__file_opt__excel
+msgid "EXCEL"
+msgstr "EXCELLER"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/attendances.py:0
+#, python-format
+msgid "Employee '%s' Not Found!"
+msgstr "Employé '% s' introuvable!"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__account_multiple_bank_statement_wizard__file_opt__excel
+msgid "Excel"
+msgstr "Exceller"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_account_multiple_bank_statement_wizard__file
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_gen_multi_journal_entry__file_to_upload
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_gen_pos_order__file_to_upload
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_import_attendance__file
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_import_task__file
+msgid "File"
+msgstr "Déposer"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_account_multiple_bank_statement_wizard__file_opt
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_import_attendance__file_opt
+msgid "File Opt"
+msgstr "Option de fichier"
+
+#. module: bi_generic_import_all
+#: model:ir.model,name:bi_generic_import_all.model_gen_multi_journal_entry
+msgid "Gen Multi Journal Entry"
+msgstr "Entrée de journal Gen Multi"
+
+#. module: bi_generic_import_all
+#: model:ir.model,name:bi_generic_import_all.model_gen_pos_order
+msgid "Gen Pos Order"
+msgstr "Ordre des positions génériques"
+
+#. module: bi_generic_import_all
+#: model:ir.model,name:bi_generic_import_all.model_gen_invoice
+msgid "Generic Invoice"
+msgstr "Facture générique"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_account_multiple_bank_statement_wizard__id
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_bi_import_product_image__id
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_gen_multi_journal_entry__id
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_gen_pos_order__id
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_import_attendance__id
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_import_task__id
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__bi_import_product_image__update_by__id
+msgid "ID"
+msgstr "identifiant"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/import_image.py:0
+#, python-format
+msgid "ID does not found in Excel"
+msgstr "ID introuvable dans Excel"
+
+#. module: bi_generic_import_all
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.form_import_product_image
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.hr_attendance_import_wizard
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.import_multiple_account_move_line_view
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.import_multiple_bank_statement_wizard
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.import_pos_view
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.import_task_wizard_view
+msgid "Import"
+msgstr "Importer"
+
+#. module: bi_generic_import_all
+#: model:ir.model,name:bi_generic_import_all.model_import_attendance
+#: model:ir.ui.menu,name:bi_generic_import_all.import_attendance_dashboard_view
+msgid "Import Attendance"
+msgstr "Importer la fréquentation"
+
+#. module: bi_generic_import_all
+#: model:ir.actions.act_window,name:bi_generic_import_all.hr_attendance_import_action
+#: model:ir.ui.menu,name:bi_generic_import_all.menu_hr_attendance_import
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.hr_attendance_import_wizard
+msgid "Import Attendances"
+msgstr "Importer les participants"
+
+#. module: bi_generic_import_all
+#: model:ir.ui.menu,name:bi_generic_import_all.import_statement_dashboard_view
+msgid "Import Bank Statement"
+msgstr "Importer un relevé bancaire"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__gen_invoice__stage__draft
+msgid "Import Draft Invoice"
+msgstr "Importer une facture provisoire"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__gen_invoice__stage__payment
+msgid "Import Invoice with Payment"
+msgstr "Importer une facture avec paiement"
+
+#. module: bi_generic_import_all
+#: model:ir.ui.menu,name:bi_generic_import_all.import_journal_dashboard_view
+msgid "Import Journal Entry"
+msgstr "Importer une entrée de journal"
+
+#. module: bi_generic_import_all
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.import_multiple_account_move_line_view
+msgid "Import Journal Items"
+msgstr "Importer des éléments de journal"
+
+#. module: bi_generic_import_all
+#: model:ir.actions.act_window,name:bi_generic_import_all.action_import_multiple_bank_statement
+#: model:ir.ui.menu,name:bi_generic_import_all.menu_import_multiple_bank_statement
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.import_multiple_bank_statement_wizard
+msgid "Import Multiple Bank Statement"
+msgstr "Importer plusieurs relevés bancaires"
+
+#. module: bi_generic_import_all
+#: model:ir.actions.act_window,name:bi_generic_import_all.action_import_multiple_account_move_line
+#: model:ir.ui.menu,name:bi_generic_import_all.bi_gen_multiple_journal_wizard_import
+msgid "Import Multiple Journal Entries"
+msgstr "Importer plusieurs entrées de journal"
+
+#. module: bi_generic_import_all
+#: model:ir.ui.menu,name:bi_generic_import_all.import_pos_dashboard_view
+msgid "Import POS"
+msgstr "Importer le point de vente"
+
+#. module: bi_generic_import_all
+#: model:ir.actions.act_window,name:bi_generic_import_all.action_pos_import
+#: model:ir.ui.menu,name:bi_generic_import_all.Import POS Order
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.import_pos_view
+msgid "Import POS Order"
+msgstr "Importer la commande de point de vente"
+
+#. module: bi_generic_import_all
+#: model:ir.actions.act_window,name:bi_generic_import_all.action_import_product_image
+#: model:ir.ui.menu,name:bi_generic_import_all.menu_import_product_image
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.form_import_product_image
+msgid "Import Product Images"
+msgstr "Importer des images de produits"
+
+#. module: bi_generic_import_all
+#: model:ir.actions.act_window,name:bi_generic_import_all.import_task_wizard_action
+#: model:ir.model,name:bi_generic_import_all.model_import_task
+#: model:ir.ui.menu,name:bi_generic_import_all.import_task_dashboard_view
+#: model:ir.ui.menu,name:bi_generic_import_all.import_task_wizard
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.import_task_wizard_view
+msgid "Import Task"
+msgstr "Importer une tâche"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/multiple_bank_statement.py:0
+#, python-format
+msgid ""
+"Invalid Dates !!!!.\n"
+" Please Enter Valid Dates,\n"
+" Dates must be greater than previous entry."
+msgstr ""
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/multiple_account_move.py:0
+#: code:addons/bi_generic_import_all/models/multiple_account_move.py:0
+#: code:addons/bi_generic_import_all/models/multiple_bank_statement.py:0
+#: code:addons/bi_generic_import_all/models/multiple_bank_statement.py:0
+#: code:addons/bi_generic_import_all/models/pos_order.py:0
+#: code:addons/bi_generic_import_all/models/pos_order.py:0
+#, python-format
+msgid "Invalid file!"
+msgstr "Fichier non valide!"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_gen_invoice__stage
+msgid "Invoice Stage Option"
+msgstr "Option d'étape de facturation"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/invoice_with_payment.py:0
+#, python-format
+msgid "Journal %s does not exist."
+msgstr "Le journal% s n'existe pas."
+
+#. module: bi_generic_import_all
+#: model:ir.model,name:bi_generic_import_all.model_account_move
+msgid "Journal Entries"
+msgstr "Entrées de journal"
+
+#. module: bi_generic_import_all
+#: model:ir.actions.act_window,name:bi_generic_import_all.action_journal_entry_import_view
+msgid "Journal Entry"
+msgstr "Entrée de journal"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/multiple_bank_statement.py:0
+#, python-format
+msgid ""
+"Journal is different for \"%s\" .\n"
+" Please define same."
+msgstr ""
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__gen_invoice__partial_payment__keep
+msgid "Keep Open"
+msgstr "Garder ouverte"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_account_multiple_bank_statement_wizard____last_update
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_bi_import_product_image____last_update
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_gen_multi_journal_entry____last_update
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_gen_pos_order____last_update
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_import_attendance____last_update
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_import_task____last_update
+msgid "Last Modified on"
+msgstr "Dernière modification le"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_account_multiple_bank_statement_wizard__write_uid
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_bi_import_product_image__write_uid
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_gen_multi_journal_entry__write_uid
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_gen_pos_order__write_uid
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_import_attendance__write_uid
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_import_task__write_uid
+msgid "Last Updated by"
+msgstr "Dernière mise à jour par"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_account_multiple_bank_statement_wizard__write_date
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_bi_import_product_image__write_date
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_gen_multi_journal_entry__write_date
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_gen_pos_order__write_date
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_import_attendance__write_date
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_import_task__write_date
+msgid "Last Updated on"
+msgstr "Dernière mise à jour le"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_bi_import_product_image__model
+msgid "Models"
+msgstr "Des modèles"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__bi_import_product_image__update_by__name
+msgid "Name"
+msgstr "Nom"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/import_image.py:0
+#, python-format
+msgid "Name does not found in Excel"
+msgstr "Le nom est introuvable dans Excel"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/pos_order.py:0
+#, python-format
+msgid "Not Valid Salesperson Name \"%s\""
+msgstr "Nom du vendeur non valide \"%s\""
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_bi_import_product_image__operation
+msgid "Operations"
+msgstr "Opérations"
+
+#. module: bi_generic_import_all
+#: model:ir.actions.act_window,name:bi_generic_import_all.action_pos_order_import_view
+msgid "POS Order"
+msgstr "Commande au point de vente"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__import_dashboard__state__pos_order
+msgid "POS order"
+msgstr "Commande au point de vente"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_gen_invoice__partial_payment
+msgid "Partial Payment"
+msgstr "Paiement partiel"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/multiple_account_move.py:0
+#: code:addons/bi_generic_import_all/models/multiple_account_move.py:0
+#: code:addons/bi_generic_import_all/models/multiple_account_move.py:0
+#: code:addons/bi_generic_import_all/models/multiple_account_move.py:0
+#, python-format
+msgid "Please Define Journal which are already in system."
+msgstr "Veuillez définir les journaux qui sont déjà dans le système."
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/multiple_bank_statement.py:0
+#, python-format
+msgid "Please Provide Currency Value for Bank Statement."
+msgstr "Veuillez indiquer la valeur de la devise pour le relevé bancaire."
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/multiple_bank_statement.py:0
+#, python-format
+msgid "Please Provide Date Field Value for Bank Statement."
+msgstr "Veuillez indiquer la valeur du champ de date pour le relevé bancaire."
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/invoice_with_payment.py:0
+#: code:addons/bi_generic_import_all/models/invoice_with_payment.py:0
+#, python-format
+msgid "Please Specify Payment Journal and Amount for Invoice %s"
+msgstr "Veuillez spécifier le journal des paiements et le montant de la facture% s"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/invoice_with_payment.py:0
+#: code:addons/bi_generic_import_all/models/invoice_with_payment.py:0
+#, python-format
+msgid "Please Use same Journal for Invoice %s"
+msgstr "Veuillez utiliser le même journal pour la facture% s"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/invoice_with_payment.py:0
+#, python-format
+msgid "Please assign a date"
+msgstr "Veuillez attribuer une date"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/invoice_with_payment.py:0
+#: code:addons/bi_generic_import_all/models/invoice_with_payment.py:0
+#, python-format
+msgid "Please assign a payment date"
+msgstr "Veuillez attribuer une date de paiement"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/task.py:0
+#: code:addons/bi_generic_import_all/models/task.py:0
+#, python-format
+msgid "Please select CSV/XLS file or You have selected invalid file"
+msgstr "Veuillez sélectionner un fichier CSV / XLS ou Vous avez sélectionné un fichier invalide"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/attendances.py:0
+#: code:addons/bi_generic_import_all/models/attendances.py:0
+#: code:addons/bi_generic_import_all/models/import_image.py:0
+#: code:addons/bi_generic_import_all/models/invoice_with_payment.py:0
+#: code:addons/bi_generic_import_all/models/invoice_with_payment.py:0
+#, python-format
+msgid "Please select an CSV/XLS file or You have selected invalid file"
+msgstr "Veuillez sélectionner un fichier CSV / XLS ou Vous avez sélectionné un fichier invalide"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/pos_order.py:0
+#, python-format
+msgid "Please set date in file."
+msgstr "Veuillez définir la date dans le fichier."
+
+#. module: bi_generic_import_all
+#: model:ir.model,name:bi_generic_import_all.model_pos_order
+msgid "Point of Sale Orders"
+msgstr "Commandes au point de vente"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__bi_import_product_image__model__product
+msgid "Product"
+msgstr "Produit"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__bi_import_product_image__model__template
+msgid "Product Template"
+msgstr "Modèle de produit"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_gen_multi_journal_entry__import_option
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_gen_pos_order__import_option
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_import_task__import_option
+msgid "Select"
+msgstr "Sélectionner"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_bi_import_product_image__file
+msgid "Select Excel File"
+msgstr "Sélectionnez un fichier Excel"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_import_dashboard__state
+msgid "State"
+msgstr "État"
+
+#. module: bi_generic_import_all
+#: model:ir.actions.act_window,name:bi_generic_import_all.action_task_import_view
+#: model:ir.model,name:bi_generic_import_all.model_project_task
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__import_dashboard__state__project_task
+msgid "Task"
+msgstr "Tâche"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_bi_import_product_image__update_by
+msgid "Update By"
+msgstr "Mettre à jour par"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__bi_import_product_image__operation__update
+msgid "Update Product"
+msgstr "Mettre à jour le produit"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__gen_invoice__stage__confirm
+msgid "Validate Invoice Automatically With Import"
+msgstr "Valider la facture automatiquement avec l'importation"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__gen_invoice__partial_payment__writeoff
+msgid "Write-Off"
+msgstr "Écrire"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_gen_invoice__writeoff_account
+msgid "Write-Off Account"
+msgstr "Compte radié"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/pos_order.py:0
+#, python-format
+msgid "Wrong Partner %s"
+msgstr "Mauvais partenaire% s"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/pos_order.py:0
+#, python-format
+msgid "Wrong Product %s"
+msgstr "Mauvais produit% s"
+
+#. module: bi_generic_import_all
+#: code:addons/bi_generic_import_all/models/pos_order.py:0
+#: code:addons/bi_generic_import_all/models/pos_order.py:0
+#, python-format
+msgid "Wrong Session %s"
+msgstr "Mauvaise session% s"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__gen_multi_journal_entry__import_option__xls
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__gen_pos_order__import_option__xls
+#: model:ir.model.fields.selection,name:bi_generic_import_all.selection__import_task__import_option__xls
+msgid "XLS File"
+msgstr "Fichier XLS"
+
+#. module: bi_generic_import_all
+#: model:ir.model,name:bi_generic_import_all.model_import_dashboard
+msgid "import Dashboard"
+msgstr "Importer le tableau de bord"
+
+#. module: bi_generic_import_all
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_pos_order__is_import
+#: model:ir.model.fields,field_description:bi_generic_import_all.field_project_task__is_import
+msgid "imported data"
+msgstr "données importées"
+
+#. module: bi_generic_import_all
+#: model_terms:ir.ui.view,arch_db:bi_generic_import_all.import_multiple_bank_statement_wizard
+msgid "or"
+msgstr "ou"

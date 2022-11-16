@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+    <data>
+
+        <record id="import_pos_view" model="ir.ui.view">
+            <field name="name">Import.POS.Order</field>
+            <field name="model">gen.pos.order</field>
+            <field name="arch" type="xml">
+		        <form string="Import POS Order">
+					<group>
+		            	<field name="import_option" widget="radio"/>
+		                <field name="file_to_upload" />
+		            </group>
+		            <footer>
+				        <button string="Import" name="import_pos_order" type="object" />
+				        <button name="cancel" string="Cancel" class="oe_link" special="cancel"/>
+                        <div style="float: right;">
+                            <strong>Download Sample:</strong>
+                            <a role="button" href="/bi_generic_import_all/static/Sample Files/sample CSV/import_pos.csv" class="btn-primary" style="margin: 0 10px; font-size: 12px; line-height: 1.5; border-radius: 3px; padding: 8px 10px; color: #ffffff;">
+                            <i class="fa fa-download"/>
+                            CSV file
+                            </a>
+                            <a role="button" href="/bi_generic_import_all/static/Sample Files/Sample XLS/import_pos.xls" class="btn-primary" style="font-size: 12px; line-height: 1.5; border-radius: 3px; padding: 8px 10px; color: #ffffff;">
+                            <i class="fa fa-download"/>
+                            Excel file
+                            </a>
+                        </div>
+				    </footer>
+		        </form>
+            </field>
+        </record>
+
+        <record id="action_pos_import" model="ir.actions.act_window">
+            <field name="name">Import POS Order</field>
+            <field name="res_model">gen.pos.order</field>
+            
+            <field name="view_mode">form</field>
+            <field name="target">new</field>
+        </record>
+
+        <menuitem action="action_pos_import" 
+                    id="Import_POS_Order" 
+                    parent="point_of_sale.menu_point_of_sale"/>
+  </data>
+</odoo>

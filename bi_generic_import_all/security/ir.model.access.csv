@@ -1,0 +1,8 @@
+"id","name","model_id:id","group_id:id","perm_read","perm_write","perm_create","perm_unlink"
+"access_bi_import_product_image","bi_import_product_image all","model_bi_import_product_image",,1,1,1,1
+import_attendance,import_attendance,model_import_attendance,,1,1,1,1
+import_bi_import_product_image,import_bi_import_product_image,model_bi_import_product_image,,1,1,1,1
+import_gen_multi_journal_entry,import_gen_multi_journal_entry,model_gen_multi_journal_entry,,1,1,1,1
+import_account_multiple_bank_statement_wizard,import_account_multiple_bank_statement_wizard,model_account_multiple_bank_statement_wizard,,1,1,1,1
+import_gen_pos_order,import_gen_pos_order,model_gen_pos_order,,1,1,1,1
+import_import_task,import_import_task,model_import_task,,1,1,1,1

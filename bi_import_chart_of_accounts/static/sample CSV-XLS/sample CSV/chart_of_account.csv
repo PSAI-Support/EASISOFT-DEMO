@@ -1,0 +1,5 @@
+code,name,account_type,default tax,tag_ids,group,currency,reconsile,depreated
+10103,Plant,asset_current,"SGST Sale 14%,CGST Sale 9%",Operating Activities,Demo Group1,INR,1,TRUE
+10104,Prepaymentsasset_cash,"SGST Sale 14%,CGST Sale 9%",,Demo Group2,,TRUE,FALSE
+10105,Long term,income,,"Financing Activities,Operating Activities",,EUR,0,1
+10106,Equipments,liability_credit_card,CESS Purchase 1591 Per Thousand,,Demo Group4,USD,1,1

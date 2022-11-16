@@ -1,0 +1,4 @@
+NAME,SESSION,DATE ORDER,SALESPERSON,PARTNER,PRODUCT,QUANTITY,PRICE,DISCOUNT,Taxes
+Shop/0056,POS/00001,09/29/2017 15:24:50,Mitchell Admin,Deco Addict,Customizable Desk,1,100,12,Tax 15.00%
+Shop/0055,POS/00001,09/29/2017 15:24:50,Mitchell Admin,Gemini Furniture,Conference Chair,2,101,13,Tax 15.00%
+Shop/0046,POS/00001,09/29/2017 15:24:50,Mitchell Admin,Azure Interior,Pedal Bin,1,100,10,Tax 15.00%
